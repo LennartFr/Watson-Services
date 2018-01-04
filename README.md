@@ -2,6 +2,8 @@
 
 https://www.ibm.com/watson/services/knowledge-studio/
 https://console.bluemix.net/catalog/services/machine-learning
+https://developer.ibm.com/clouddataservices/docs/ibm-watson-machine-learning/
+https://www.ibm.com/cloud/machine-learning
 
 # Watson Services 2
 
