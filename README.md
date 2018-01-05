@@ -4,10 +4,9 @@
 
 https://www.ibm.com/watson/services/knowledge-studio/  Works with Natura Language Undestanding and Discovery
 
-
 https://console.bluemix.net/catalog/services/machine-learning
 
-https://developer.ibm.com/clouddataservices/docs/ibm-  Works with Natura Language Undestanding and Discovery 
+https://developer.ibm.com/clouddataservices/docs/ibm-  
 
 https://www.ibm.com/cloud/machine-learning
 
