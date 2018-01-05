@@ -44,4 +44,8 @@ https://www.ibm.com/watson/services/text-to-speech/
 
 Jupyter Notebooks
 
-Scala and Akka
+Kafka
+
+Scala 
+
+Akka
