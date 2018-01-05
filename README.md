@@ -37,3 +37,11 @@ https://www.ibm.com/watson/services/personality-insights/
 https://www.ibm.com/watson/services/speech-to-text/
 
 https://www.ibm.com/watson/services/text-to-speech/
+
+
+
+# Data streams
+
+Jupiter Notebooks
+
+Scala and Akka
