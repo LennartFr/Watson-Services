@@ -1,13 +1,20 @@
+
 # Watson-Services 1
 
-https://www.ibm.com/watson/services/knowledge-studio/
+
+https://www.ibm.com/watson/services/knowledge-studio/  Works with Natura Language Undestanding and Discovery
+
+
 https://console.bluemix.net/catalog/services/machine-learning
-https://developer.ibm.com/clouddataservices/docs/ibm-watson-machine-learning/
+
+https://developer.ibm.com/clouddataservices/docs/ibm-  Works with Natura Language Undestanding and Discoverywatson-machine-learning/
+
 https://www.ibm.com/cloud/machine-learning
 
 # Watson Services 2
 
 https://www.ibm.com/watson/services/conversation/
+
 https://www.ibm.com/watson/services/visual-recognition/
 
 
