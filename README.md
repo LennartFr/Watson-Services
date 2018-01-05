@@ -42,6 +42,6 @@ https://www.ibm.com/watson/services/text-to-speech/
 
 # Data streams
 
-Jupiter Notebooks
+Jupyter Notebooks
 
 Scala and Akka
